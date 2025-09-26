@@ -1,6 +1,6 @@
 # AI & ML Internship Tasks
 
-This repository contains my work for the AI & ML internship tasks focused on **Data Cleaning & Preprocessing** (Task 1), **Exploratory Data Analysis** (Task 2), and **Linear Regression** (Task 3).
+This repository contains my work for the AI & ML internship tasks focused on **Data Cleaning & Preprocessing** (Task 1), **Exploratory Data Analysis** (Task 2), **Linear Regression** (Task 3), and **Classification with Logistic Regression** (Task 4).
 
 ---
 
@@ -56,4 +56,24 @@ Implement and understand simple and multiple linear regression models for predic
 - Python, Scikit-learn, Pandas, Matplotlib, Seaborn
 
 ---
+
+## 🔍 Task 4: Classification with Logistic Regression
+
+### Objective
+Build and evaluate a binary classifier using logistic regression for medical diagnosis prediction.
+
+### What I Did
+- Utilized the Breast Cancer Wisconsin dataset for binary classification (malignant vs benign).
+- Performed feature standardization and train-test split (80-20 ratio).
+- Implemented logistic regression model using Scikit-learn.
+- Evaluated model with confusion matrix, precision, recall, F1-score, and ROC-AUC metrics.
+- Visualized the sigmoid function and ROC curve to explain model predictions.
+- Experimented with different classification thresholds to optimize performance.
+- Handled class imbalance and interpreted feature importance.
+
+### Tools Used
+- Python, Scikit-learn, Pandas, Matplotlib, Seaborn
+
+---
+
 
