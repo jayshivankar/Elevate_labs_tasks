@@ -140,7 +140,7 @@ Implement SVM classifiers with different kernels and understand margin maximizat
 Perform unsupervised learning using K-Means clustering for customer segmentation.
 
 ### What I Did
-- Used Mall Customer Segmentation dataset to identify customer groups.
+- Used Customer spending dataset to identify customer groups.
 - Performed feature scaling and applied PCA for 2D visualization of clusters.
 - Implemented K-Means clustering with multiple K values to find optimal clusters.
 - Used Elbow Method and Silhouette Score to determine optimal number of clusters (K=5).
